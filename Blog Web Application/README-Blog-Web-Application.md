@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-A simple blog where users can create, view, edit, and delete posts. This version intentionally uses **in‑memory storage** (no database), so posts **reset when the server restarts**. The UI is server‑rendered with EJS templates and a small CSS file for basic styling.
+A simple blog where users can create, view, edit, and delete posts. This version intentionally uses in‑memory storage (no database), so posts reset when the server restarts. The UI is server‑rendered with EJS templates and a small CSS file for basic styling.
 
 ---
 
