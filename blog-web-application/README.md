@@ -45,16 +45,16 @@ A simple blog where users can create, view, edit, and delete posts. This version
 ## 🖥️ App Preview – Blog Web App 
 
 ### Home
-![Home](<Home Page.png>)
+![Home](<home-page.png>)
 
 ### View Post
-![Add](<Adding Post.png>)
+![Add](<adding-post.png>)
 
 ### Edit Post
-![Edit](<Edit Post.png>)
+![Edit](<edit-post.png>)
 
 ### Changed Title
-![alt text](<Changed Title of Post.png>)
+![alt text](<changed-title-of-post.png>)
 
 ---
 

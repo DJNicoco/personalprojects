@@ -93,13 +93,13 @@ npm start
 ## 🖥️ App Preview – Book Notes 
 
 ### Home Page
-![Home](<Home Page.png>)
+![Home](<home-page.png>)
 
 ### Add a Book Form
 ![Adding Book](image-1.png)
 
 ### Book Added
-![Book Detail](<Book Detail.png>)
+![Book Detail](<book-detail.png>)
 
 ### Viewing
 ![alt text](image-2.png)

@@ -6,8 +6,8 @@ This repository includes documentation for my personal projects, inspired by cap
 
 - **Book Notes** — Full‑Stack CRUD app (Express, EJS, PostgreSQL).  
   
-  ➜ [Read the project README](./Book%20Notes/README.md)
+  ➜ [Read the project README](./book-notes/README.md)
 
 - **Blog Web Application** — In-memory CRUD app (Express, EJS).
   
-  ➜ [Read the project README](./Blog%20Web%20Application/README.md) 
+  ➜ [Read the project README](./blog-web-application/README.md) 
